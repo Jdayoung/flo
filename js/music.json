@@ -1,0 +1,776 @@
+[
+    {
+        "imgSrc":"./images/a01.jpg",
+        "title":"위로받는 밤 ASMR",
+        "artist":"ASMR/힐링",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"today"
+    },
+    {
+        "imgSrc":"./images/a02.jpg",
+        "title":"Tigger ASMR",
+        "artist":"ASMR/힐링",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"today"
+    },
+    {
+        "imgSrc":"./images/a03.jpg",
+        "title":"샤론최&장도연의 있어빌리티",
+        "artist":"교양/문화",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"today"
+
+    },
+    {
+        "imgSrc":"./images/a04.jpg",
+        "title":"캡틴모립",
+        "artist":"예능/코미디",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"today"
+
+    },
+    {
+        "imgSrc":"./images/a05.jpg",
+        "title":"송은이·김숙 비밀보장",
+        "artist":"예능/코미디",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"today"
+
+    },
+    {
+        "imgSrc":"./images/a06.jpg",
+        "title":"뉴스 1타",
+        "artist":"시사/경제",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"today"
+
+    },
+    {
+        "imgSrc":"./images/a07.jpg",
+        "title":"윌라 오디오북",
+        "artist":"교양/문화",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"today"
+
+    },
+    {
+        "imgSrc":"./images/a08.jpg",
+        "title":"나나파이브",
+        "artist":"예능/코미디",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"today"
+
+    },
+    {
+        "imgSrc":"./images/a09.jpg",
+        "title":"MBC 이진우의 손에 잡히는 경제",
+        "artist":"시사/경제",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"today"
+
+    },
+    {
+        "imgSrc":"./images/a10.jpg",
+        "title":"지금 당신의 음악, 박선영입니다",
+        "artist":"교양/문화",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"today"
+
+    },
+    {
+        "imgSrc":"./images/a03.jpg",
+        "title":" ep50 : 라떼 교과서 다시 쓰기 [OMG! Sheesh!]",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"content"
+    },
+    {
+        "imgSrc":"./images/a06.jpg",
+        "title":"'물어버릴 것'…신·구 권력<br>썰전 ",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"content"
+    },
+    {
+        "imgSrc":"./images/a12.jpg",
+        "title":" 방랑하는 봄 총각 슈베르트,<br>그리고 중심부와 주변부 ",
+        "play":true,
+        "cate":"content"
+    },
+    {
+        "imgSrc":"./images/a11.jpg",
+        "title":"유퀴즈, 무엇이 문제였나 ",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"content"
+    },
+    {
+        "imgSrc":"./images/a13.jpg",
+        "title":" [2022/04/28] [뉴스쇼 방송 전체듣기]",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"content"
+
+    },
+    {
+        "imgSrc":"./images/a14.jpg",
+        "title":"🤖❤️👸🏻T한테 상처받은 F들 모여 [Ep.21]",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"content"
+    },
+    {
+        "imgSrc":"./images/a15.jpg",
+        "title":" [2022/04/28] [뉴스쇼 방송 전체듣기]",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"content"
+    },
+    {
+        "imgSrc":"./images/a16.jpg",
+        "title":" [명작동화] 명작모음 12 ",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"content"
+    },
+    {
+        "imgSrc":"./images/a17.jpg",
+        "title":" 택배 언박싱, 오랜만에 쇼핑 잔뜩 했어요 ",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"content"
+    },
+    {
+        "imgSrc":"./images/w01.jpg",
+        "title":"[윌라] 거울 앞 인문학",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"book"
+    },
+    {
+        "imgSrc":"./images/w02.jpg",
+        "title":"[윌라] 생각을 바꾸는 생각들",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"book"
+    },
+    {
+        "imgSrc":"./images/w03.jpg",
+        "title":"[윌라] 인문학, 라이프스타일을 제안하다",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"book"
+    },
+    {
+        "imgSrc":"./images/i01.jpg",
+        "title":"[22/05/23] 원더풀 라디오 김현철입니다 ",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"issue"
+
+    },
+    {
+        "imgSrc":"./images/i05.jpg",
+        "title":"<지금 당신의 레전드> 『저스틴 팀버레이크』,  미국 역사상 최고의 엔터테이너 편 ",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"issue"
+
+    },
+    {
+        "imgSrc":"./images/i03.jpg",
+        "title":"사랑을 미루지 말아요 : 안녕 헤이즐 [Ep.23] ",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"issue"
+    },
+    {
+        "imgSrc":"./images/i04.jpg",
+        "title":" EP.17 : 여기 살 없는 치킨 있나요?",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"issue"
+    },
+    {
+        "imgSrc":"./images/i06.jpg",
+        "title":" 야야야 급해 진짜 빨리!!!!! 불 좀 꺼줭ㅎ",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"issue"
+    },
+    {
+        "imgSrc":"./images/i09.jpg",
+        "title":"AB6IX의 A To B",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"issue"
+    },
+    {
+        "imgSrc":"./images/c01.jpg",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"genre"
+    },
+    {
+        "imgSrc":"./images/c02.jpg",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"genre"
+    },
+    {
+        "imgSrc":"./images/c03.jpg",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"genre"
+    },
+    {
+        "imgSrc":"./images/c04.jpg",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"genre"
+    },
+    {
+        "imgSrc":"./images/c05.jpg",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"genre"
+    },
+    {
+        "imgSrc":"./images/c06.jpg",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"genre"
+    },
+    {
+        "imgSrc":"./images/c07.jpg",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"genre"
+    },
+    {
+        "imgSrc":"./images/c08.jpg",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"genre"
+    },
+    {
+        "imgSrc":"./images/c09.jpg",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"genre"
+    },
+    {
+        "imgSrc":"./images/c10.jpg",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"genre"
+    },
+    {
+        "imgSrc":"./images/e01.jpg",
+        "title":"백예린이 추천하는 물고기들의 여행 곡🐠 ",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"edit"
+    },
+    {
+        "imgSrc":"./images/d08.jpg",
+        "title":" 돈 냄새 풀풀나는 의욕만땅 노동요💎✨",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"edit"
+    },
+    
+    {
+        "imgSrc":"./images/e04.jpg",
+        "title":" CAKE OR MUSIC ?🍰 ",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"edit"
+    },
+    {
+        "imgSrc":"./images/e05.jpg",
+        "title":" 난 히어로보단 빌런이 끌리는 편💣 ",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"edit"
+    },
+    {
+        "imgSrc":"./images/e06.jpg",
+        "title":" 새벽감성에도 함께할 케이팝🌙",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"edit"
+    },
+    {
+        "imgSrc":"./images/e07.jpg",
+        "title":"페스티벌에 다이빙 전, 고막에 준비운동",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"edit"
+    },
+    {
+        "imgSrc":"./images/e08.jpg",
+        "title":"봄이 훑고 지나간 자리에 푸르게🌳 ",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"edit"
+    },
+    {
+        "imgSrc":"./images/e10.jpg",
+        "title":"깜깜한 방에 불 다 끄고 이 노래 딱🌟",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"edit"
+    },
+    {
+        "imgSrc":"./images/e09.jpg",
+        "title":" 이거 들으면서 산책하면 센트럴 파크임🌳",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"edit"
+    },
+    {
+        "imgSrc":"./images/e11.jpg",
+        "title":"환절기의 Down Mood 날려줄 팝 ",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"edit"
+    },
+    {
+        "imgSrc":"./images/t01.jpg",
+        "title":"SHUUU!",
+        "artist":"슈 (SHUUU)",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"t_music"
+    },
+    {
+        "imgSrc":"./images/t02.jpg",
+        "title":"2022 월간 브라운 4월호",
+        "artist":"브라운티거 (Brown Tigger)",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"t_music"
+    },
+    {
+        "imgSrc":"./images/t03.jpg",
+        "title":"그린마더스클럽 OST Part3",
+        "artist":"정인",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"t_music"
+    },
+    {
+        "imgSrc":"./images/t04.jpg",
+        "title":"Flyin (너에게 가는 속도 493km OST Part.3",
+        "artist":"케빈",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"t_music"
+    },
+    {
+        "imgSrc":"./images/t05.jpg",
+        "title":"낙화",
+        "artist":"하유비",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"t_music"
+    },
+    {
+        "imgSrc":"./images/t06.jpg",
+        "title":"버킷리스트",
+        "artist":"Various Artists",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"t_music"
+    },
+    {
+        "imgSrc":"./images/t07.jpg",
+        "title":"엘소드 OST : Loadstar",
+        "artist":"솔지 & 신용재 (2F)",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"t_music"
+    },
+    {
+        "imgSrc":"./images/t08.jpg",
+        "title":"Diaspora",
+        "artist":"웅산",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"t_music"
+    },
+    {
+        "imgSrc":"./images/t09.jpg",
+        "title":"MY",
+        "artist":"미연 ((여자)아이들)",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"t_music"
+    },
+    {
+        "imgSrc":"./images/t10.jpg",
+        "title":"BOP BOP! (Yves V Remix)",
+        "artist":"VIVIZ(비비지) & Yves V",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"t_music"
+    },
+    {
+        "imgSrc":"./images/ap01.jpg",
+        "title":"나만 알면 돼",
+        "artist":"Apink (에이핑크)",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"t_music"
+    },
+    {
+        "imgSrc":"./images/t11.jpg",
+        "title":"SO BAD",
+        "artist":"림지 (LimJi)",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"t_music"
+    },
+    {
+        "imgSrc":"./images/t12.jpg",
+        "title":"너라서 난 좋은 걸",
+        "artist":"체리베리 (CherryBerry)",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"t_music"
+    },
+    {
+        "imgSrc":"./images/t13.jpg",
+        "title":"낭만",
+        "artist":"BIG Naughty (서동현)",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"t_music"
+    },
+    {
+        "imgSrc":"./images/k01.jpg",
+        "title":"REBEL",
+        "artist":"다크비 (DKB)",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_02"
+    },
+    {
+        "imgSrc":"./images/k02.jpg",
+        "title":" 아저씨. 마술을 믿으세요? (안나라수마나라 OST) ",
+        "artist":"지창욱 & 최성은",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_02"
+    },
+    {
+        "imgSrc":"./images/k03.jpg",
+        "title":"유리잔",
+        "artist":"구원찬",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_02"
+    },
+    {
+        "imgSrc":"./images/k04.jpg",
+        "title":"춤",
+        "artist":"찬주",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_02"
+    },
+    {
+        "imgSrc":"./images/k05.jpg",
+        "title":"Gasoline",
+        "artist":"미란이 (Mirani)",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_02"
+    },
+    {
+        "imgSrc":"./images/k06.jpg",
+        "title":"너였나 봐 (손효규 x 썸 플레이리스트)",
+        "artist":"손효규",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_02"
+    },
+    {
+        "imgSrc":"./images/k07.jpg",
+        "title":"C.I.T.T (Cheese in the Trap)",
+        "artist":"문별 (마마무)",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_02"
+    },
+    {
+        "imgSrc":"./images/k08.jpg",
+        "title":"SPACE TALK",
+        "artist":"릴체리 (Lil Cherry) & GOLDBUUDA",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_02"
+    },
+    {
+        "imgSrc":"./images/k09.jpg",
+        "title":"mOS 2.74",
+        "artist":"민서 (MINSEO)",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_02"
+    },
+    {
+        "imgSrc":"./images/k10.jpg",
+        "title":"iScreaM Vol.15",
+        "artist":"태연 (TAEYEON)",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_02"
+    },
+    {
+        "imgSrc":"./images/t10.jpg",
+        "title":"BOP BOP! (Yves V Remix)",
+        "artist":"VIVIZ(비비지) & Yves V",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_02"
+    },
+    {
+        "imgSrc":"./images/ap01.jpg",
+        "title":"나만 알면 돼",
+        "artist":"Apink (에이핑크)",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_02"
+    },
+    {
+        "imgSrc":"./images/t11.jpg",
+        "title":"SO BAD",
+        "artist":"림지 (LimJi)",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_02"
+    },
+    {
+        "imgSrc":"./images/t12.jpg",
+        "title":"너라서 난 좋은 걸",
+        "artist":"체리베리 (CherryBerry)",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_02"
+    },
+    
+    {
+        "imgSrc":"./images/o01.jpg",
+        "title":" EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES) ",
+        "artist":"Labrinth",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_03"
+    },
+    {
+        "imgSrc":"./images/o02.jpg",
+        "title":" Give Me a Kiss ",
+        "artist":"Lolo Zouaï",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_03"
+    },
+    {
+        "imgSrc":"./images/o03.jpg",
+        "title":"ManChild",
+        "artist":"Sia & Neneh Cherry",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_03"
+    },
+    {
+        "imgSrc":"./images/o04.jpg",
+        "title":"Tek It/Friction ",
+        "artist":"Cafuné",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_03"
+    },
+    {
+        "imgSrc":"./images/o05.jpg",
+        "title":" Lights Off (feat. Gunna & Lil Durk) ",
+        "artist":"Tay Keith & Gunna",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_03"
+    },
+    {
+        "imgSrc":"./images/o06.jpg",
+        "title":" Skin and Bones ",
+        "artist":"070 Shake",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_03"
+    },
+    {
+        "imgSrc":"./images/o07.jpg",
+        "title":" CHAMPAGNE",
+        "artist":"Valley",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_03"
+    },
+    {
+        "imgSrc":"./images/o08.jpg",
+        "title":"Unconditional I (Lookout Kid)",
+        "artist":"Arcade Fire",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_03"
+    },
+    {
+        "imgSrc":"./images/o09.jpg",
+        "title":"Body Of Water ",
+        "artist":"Will Jay",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_03"
+    },
+    {
+        "imgSrc":"./images/o10.jpg",
+        "title":"Better Days ",
+        "artist":"Liam Gallagher",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_03"
+    },
+    {
+        "imgSrc":"./images/o11.jpg",
+        "title":"Mrs. Davis ",
+        "artist":"Gucci Mane",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_03"
+    },
+    {
+        "imgSrc":"./images/o12.jpg",
+        "title":"14",
+        "artist":"Clinton Kane",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_03"
+    },
+    {
+        "imgSrc":"./images/o13.jpg",
+        "title":"Before",
+        "artist":"NIKI",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_03"
+    },
+    {
+        "imgSrc":"./images/o14.jpg",
+        "title":"Bleed It",
+        "artist":"Logic",
+        "recomm":true,
+        "up":true,
+        "play":true,
+        "cate":"tab_03"
+    }
+    
+]

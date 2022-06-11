@@ -1,0 +1,303 @@
+@import url("./reset.css");
+@import url("./common.css");
+@font-face {
+  font-family: "nbg";
+  font-weight: 400;
+  src: url("../font/NanumBarunGothic.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "nbg";
+  font-weight: 100;
+  src: url("../font/NanumBarunGothicLight.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "nbg";
+  font-weight: 100;
+  src: url("../font/NanumBarunGothicBold.ttf") format("ttf");
+}
+
+body {
+  font-family: 'nbg', sans-serif;
+  min-width: 1200px;
+}
+
+header {
+  height: 90px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+  background: #fff;
+}
+
+header .header_inner {
+  position: relative;
+  min-width: 955px;
+  max-width: 1600px;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 50px;
+  margin-top: 20px;
+}
+
+header .header_inner .logo {
+  background-image: url(../images/logo.png);
+  background-position: 0 -35px;
+  width: 55px;
+  height: 23px;
+  margin-left: 70px;
+}
+
+header .header_inner .gnb {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 40px;
+}
+
+header .header_inner .gnb li {
+  margin-right: 20px;
+}
+
+header .header_inner .login_area {
+  position: absolute;
+  right: 70px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 13px;
+  color: #8c8c8c;
+}
+
+header .header_inner .login_area li {
+  margin-right: 25px;
+}
+
+header .header_inner .login_area li:last-child {
+  margin-right: 0;
+}
+
+header .header_inner .search_area {
+  position: relative;
+  padding: 0 30px 0 38px;
+  width: 280px;
+  height: 32px;
+  border: 1px solid #d2d2d2;
+  border-radius: 17px;
+  vertical-align: middle;
+}
+
+header .header_inner .search_area .search_btn {
+  background-image: url(../images/sp_bg.png);
+  background-position: -242px -632px;
+  width: 25px;
+  height: 25px;
+  border: 0;
+  position: absolute;
+  top: 4px;
+  left: 10px;
+  background-color: #fff;
+}
+
+header .header_inner .search_area .search_txt {
+  font-size: 13px;
+  letter-spacing: -1px;
+  width: 280px;
+  height: 30px;
+  border: 0;
+  outline: none;
+}
+
+footer {
+  margin-bottom: 120px;
+  letter-spacing: -1px;
+}
+
+footer .inner {
+  min-width: 955px;
+  max-width: 1600px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+footer .inner .inner_wrap {
+  width: 955px;
+  margin: 0 auto;
+  padding: 95px 0 80px;
+}
+
+footer .top_info {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  font-size: 14px;
+  margin-bottom: 30px;
+}
+
+footer .top_info .intro {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+footer .top_info .intro li {
+  margin-right: 15px;
+  font-weight: bold;
+  letter-spacing: -1.2px;
+}
+
+footer .top_info .sns_area {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+footer .top_info .sns_area li {
+  width: 18px;
+  height: 22px;
+  background-size: 18px;
+  background-repeat: no-repeat;
+  margin-right: 15px;
+}
+
+footer .top_info .sns_area li a {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+footer .top_info .sns_area .face {
+  background-image: url(../images/face.png);
+}
+
+footer .top_info .sns_area .insta {
+  background-image: url(../images/insta.png);
+}
+
+footer .top_info .sns_area .youtube {
+  background-image: url(../images/youtube.png);
+}
+
+footer .top_info .sns_area .twi {
+  background-image: url(../images/twi.png);
+}
+
+footer .bottom_info {
+  font-size: 12px;
+  color: #4a4a4a;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+footer .bottom_info li {
+  margin-right: 30px;
+  position: relative;
+}
+
+footer .bottom_info li::after {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: -15px;
+  width: 1px;
+  height: 12px;
+  background: #d8d8d8;
+  content: "";
+}
+
+footer .bottom_info .bold {
+  font-weight: bold;
+}
+
+footer address {
+  margin-top: 20px;
+  font-size: 12px;
+  color: #909090;
+}
+
+footer address ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 20px;
+}
+
+footer address ul li {
+  margin-right: 20px;
+  position: relative;
+}
+
+footer address ul li::after {
+  display: block;
+  position: absolute;
+  top: 1px;
+  right: -10px;
+  width: 1px;
+  height: 11px;
+  background-color: #d8d8d8;
+  content: "";
+}
+
+footer address .flo {
+  margin-bottom: 8px;
+}
+
+footer address .flo span {
+  margin-right: 10px;
+  position: relative;
+}
+
+footer address .flo span::before {
+  display: block;
+  position: absolute;
+  top: 2px;
+  right: -8px;
+  width: 1px;
+  height: 11px;
+  background-color: #d8d8d8;
+  content: "";
+}
+
+footer address .iriver span {
+  margin-right: 10px;
+  position: relative;
+}
+
+footer address .iriver span::before {
+  display: block;
+  position: absolute;
+  top: 2px;
+  right: -8px;
+  width: 1px;
+  height: 11px;
+  background-color: #d8d8d8;
+  content: "";
+}
+
+footer .copy {
+  padding-top: 16px;
+  padding-bottom: 0;
+  font-size: 11px;
+  color: #181818;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+footer .copy span {
+  color: #a0a0a0;
+}

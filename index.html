@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <link rel="stylesheet" href="./css/layout.css">
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+    <header>
+        <div class="header_inner">
+            <h1 class="logo"><a href=""><span class="blind">FLO</span></a></h1>
+            <ul class="gnb">
+                <li><a href="">둘러보기</a></li>
+                <li><a href="">보관함</a></li>
+                <li><a href="">이용권</a></li>
+            </ul>
+            <div class="search_area">
+                <form action="" method="get">
+                    <fieldset>
+                        <legend class="blind">검색</legend>
+                        <button class="search_btn"><i class="sp_bg"><span class="blind">검색</span></i></button>
+                        <input type="text" placeholder="검색어를 입력하세요." class="search_txt">
+                    </fieldset>
+                </form>
+            </div>
+            <ul class="login_area">
+                <li><a href="">FLO 소개</a></li>
+                <li><a href="">로그인</a></li>
+                <li><a href="">회원가입</a></li>
+            </ul>
+        </div>
+    </header>
+    <main>
+        <div class="inner">
+            <div class="inner_wrap">
+                <section class="sc_recommend">
+                    
+                    <div class="swiper music_swiper">
+                        <div class="swiper-wrapper">
+                          <!-- <div class="swiper-slide">
+                              <div class="left_area">
+                                  <h2>드라이브할 때 듣기 좋은 가요</h2>
+                                  <span>총 36곡</span><span class="date">2021.10.29</span>
+                                  <div class="start_btn"><a class="play"></a></div>
+                              </div>
+                              <ul class="list">
+                                <li>
+                                    <a href="">
+                                        <img src="./images/m_01.jpg" alt="Weekend">
+                                        <div class="txt">
+                                            <strong>Weekend</strong>
+                                            <em>태연 (TAEYEON)</em>
+                                        </div>
+                                    </a>
+                                </li>
+                              </ul>
+                          </div> -->
+                        </div>
+                    </div>
+                      <a href="" class="btn prev"><span class="blind">이전</span></a>
+                      <a href="" class="btn next"><span class="blind">다음</span></a>
+                      <div class="swiper-pagination"></div>  
+                </section>
+                <section class="sc_today">
+                    <div class="title_area">
+                        <h2><a href="">오늘 발매 음악 <i class="sb_bg"></i></a></h2>
+                        
+                        <div class="controls">
+                            <div class="tab_nav">
+                                <a href="#tab01" class="on">종합</a>
+                                <a href="#tab02">국내</a>
+                                <a href="#tab03">해외</a>
+                            </div>
+                            <!-- @ -->
+                        </div>
+                    </div>
+                    <div class="tab_con">
+                        <div id="tab01" class="on">
+                            <div class="swiper grid_slide">
+                                <ul class="swiper-wrapper music_list">
+                                    <!-- <li class="swiper-slide">
+                                        <div class="img_box">
+                                            <a href=""><img src="./images/t01.jpg" alt=""></a>
+                                            <a href="" class="play"><span class="blind">재생</span></a>
+                                        </div>
+                                        <div class="txt_box">
+                                            <p>비긴어게인 오픈마이크 EPLSODE.33</p>
+                                            <span>양요섭 & 손동운</span>
+                                        </div>
+                                    </li> -->                           
+                                </ul>
+                            </div>
+                            <div class="controls">
+                                <a href="" class="btn prev"><span class="blind">이전</span></a>
+                                <a href="" class="btn next"><span class="blind">다음</span></a>
+                            </div>
+                        </div>
+                        <div id="tab02">
+                            <div class="swiper grid_slide">
+                                <ul class="swiper-wrapper music_list">
+                                    <!-- <li class="swiper-slide">
+                                        <div class="img_box">
+                                            <a href=""><img src="./images/t01.jpg" alt=""></a>
+                                            <a href="" class="play"><span class="blind">재생</span></a>
+                                        </div>
+                                        <div class="txt_box">
+                                            <p>비긴어게인 오픈마이크 EPLSODE.33</p>
+                                            <span>양요섭 & 손동운</span>
+                                        </div>
+                                    </li> -->  
+                                </ul>
+                            </div>
+                            <div class="controls">
+                                <a href="" class="btn prev"><span class="blind">이전</span></a>
+                                <a href="" class="btn next"><span class="blind">다음</span></a>
+                            </div>
+                        </div>
+                        <div id="tab03">
+                            <div class="swiper grid_slide">
+                                <ul class="swiper-wrapper music_list">
+                                    <!-- <li class="swiper-slide">
+                                        <div class="img_box">
+                                            <a href=""><img src="./images/t01.jpg" alt=""></a>
+                                            <a href="" class="play"><span class="blind">재생</span></a>
+                                        </div>
+                                        <div class="txt_box">
+                                            <p>비긴어게인 오픈마이크 EPLSODE.33</p>
+                                            <span>양요섭 & 손동운</span>
+                                        </div>
+                                    </li> -->  
+                                </ul>
+                            </div>
+                            <div class="controls">
+                                <a href="" class="btn prev"><span class="blind">이전</span></a>
+                                <a href="" class="btn next"><span class="blind">다음</span></a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    
+                </section>
+                <section class="sc_audio">
+                    <div class="title_area">
+                        <h2>오늘 인기 오디오 TOP10</h2>
+                        <span>지금 FLO에서 많이 듣는 오디오 프로그램</span>
+                    </div>
+                    <div class="swiper grid_slide">
+                        <ul class="swiper-wrapper music_list">
+                            <!-- <li class="swiper-slide">
+                                <div class="img_box">
+                                    <a href=""><img src="./images/t01.jpg" alt=""></a>
+                                    <a href="" class="play"><span class="blind">재생</span></a>
+                                </div>
+                                <div class="txt_box">
+                                    <p>비긴어게인 오픈마이크 EPLSODE.33</p>
+                                    <span>양요섭 & 손동운</span>
+                                </div>
+                            </li> -->     
+                        </ul>
+                    </div>
+                </section>
+                <section class="sc_content">
+                    <div class="title_area">
+                        <h2>오늘의 오디오</h2>
+                    </div>
+                    <div class="swiper content swiper">
+                        <div class="swiper-wrapper music_list">
+                          <!-- <div class="swiper-slide">
+                                <div class="img_box">
+                                    <a href=""><img src="./images/a06.jpg" alt=""></a>
+                                    <a href="" class="play"><span class="blind">재생</span></a>
+                                    <i class="headset"><span class="blind">플로추천</span></i>
+                                    <i class="up"><span class="blind">up</span></i>
+                                </div>
+                                <div class="txt_box">
+                                  <p>초코파이 9년째 가격 동결, 왜?</p>
+                              </div>
+                            </a>
+                          </div> -->
+                        </div>
+                    </div>
+                    <div class="controls">
+                        <span class="view">전체보기</span>
+                        <a href="" class="btn prev"></a>
+                        <a href="" class="btn next"></a>
+                    </div>
+                </section>
+                <section class="sc_book">
+                    <div class="title_area">
+                        <h2>윌라 오디오북 - 감정이 공존하는 소설</h2>
+                    </div>
+                    <ul class="music_list">
+                        <!-- <li>
+                            <div class="img_box">
+                                <a href=""><img src="./images/a06.jpg" alt=""></a>
+                                <a href="" class="play"><span class="blind">재생</span></a>
+                                <i class="headset"><span class="blind">플로추천</span></i>
+                                <i class="up"><span class="blind">up</span></i>
+                                <i class="rank">2</i>
+                            </div>
+                            <div class="txt_box">
+                                <p>초코파이 9년째 가격 동결, 왜?</p>
+                                <span>양요섭 &amp; 손동운</span>
+                            </div>
+                        </li> -->
+                    </ul>
+                </section>
+                <section class="sc_issue">
+                    <div class="title_area">
+                        <h2>오늘의 이슈</h2>
+                        <!-- <div class="controls">
+                            <a href="" class="btn prev"></a>
+                            <a href="" class="btn next"></a>
+                        </div> -->
+                    </div>
+                    <div class="swiper i_swiper">
+                        <div class="swiper-wrapper music_list">
+                          <!-- <div class="swiper-slide">
+                            <div class="img_box">
+                                <a href=""><img src="./images/a06.jpg" alt=""></a>
+                                <a href="" class="play"><span class="blind">재생</span></a>
+                                <i class="headset"><span class="blind">플로추천</span></i>
+                                <i class="up"><span class="blind">up</span></i>
+                                <i class="rank">2</i>
+                            </div>
+                            <div class="txt_box">
+                                <p>초코파이 9년째 가격 동결, 왜?</p>
+                                <span>양요섭 &amp; 손동운</span>
+                            </div>
+                          </div> -->
+                        </div>
+                    </div>
+                    <div class="controls">
+                        <a href="" class="btn prev"></a>
+                        <a href="" class="btn next"></a>
+                    </div>   
+                </section>
+                <section class="sc_genre">
+                    <div class="title_area">
+                        <h2>장르 콜렉션</h2>
+                        <!-- <div class="controls">
+                            <a href="" class="btn prev"></a>
+                            <a href="" class="btn next"></a>
+                        </div> -->
+                    </div>
+                    <div class="swiper c_swiper">
+                        <div class="swiper-wrapper music_list">
+                          <!-- <div class="swiper-slide">
+                              <div class="img_box">
+                                <a href=""><img src="./images/c01.jpg" alt=""> </a>       
+                                <a href="" class="play"></a>
+                              </div>
+                          </div> -->  
+                        </div>
+                    </div>
+                    <div class="controls">
+                        <a href="" class="btn prev"></a>
+                        <a href="" class="btn next"></a>
+                    </div>    
+                </section>
+                <section class="sc_editor">
+                    <div class="title_area">
+                        <h2>Editor's Pick</h2>
+                        <!-- <a href="" class="controls">
+                            <span class="view">지난 테마 보기 <i class="sp_bg"></i></span>
+                        </a> -->
+                    </div>
+                    <div class="swiper grid_slide">
+                        <ul class="swiper-wrapper music_list">
+                            <!-- <li class="swiper-slide">
+                                <div class="img_box">
+                                    <a href=""><img src="./images/t01.jpg" alt=""></a>
+                                    <a href="" class="play"><span class="blind">재생</span></a>
+                                </div>
+                                <div class="txt_box">
+                                    <p>비긴어게인 오픈마이크 EPLSODE.33</p>
+                                    <span>양요섭 & 손동운</span>
+                                </div>
+                            </li> -->     
+                        </ul>
+                    </div>
+                    <a href="" class="controls">
+                        <span class="view">지난 테마 보기 <i class="sp_bg"></i></span>
+                    </a> 
+                </section>
+                <div class="banner">
+                    <a href=""><img src="./images/banner.png" alt=""></a>
+                </div>
+            </div>
+        </div>  
+    </main>
+    <footer>
+        <div class="inner">
+            <div class="inner_wrap">
+                <div class="top_info">
+                    <ul class="intro">
+                        <li>
+                            <a href="">
+                                FLO 소개
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                공지사항
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                고객센터
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                FLO 플레이어 다운로드
+                            </a>
+                        </li>
+                    </ul>
+                    <ul class="sns_area">
+                        <li class="face">
+                            <a href=""></a>
+                        </li>
+                        <li class="insta">
+                            <a href=""></a>
+                        </li>
+                        <li class="youtube">
+                            <a href=""></a>
+                        </li>
+                        <li class="twi">
+                            <a href=""></a>
+                        </li>
+                    </ul>
+                </div>
+                <ul class="bottom_info">
+                    <li>
+                        <a href="">
+                            회사소개
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            이용약관
+                        </a>
+                    </li>
+                    <li class="bold">
+                        <a href="">
+                            개인정보 처리방침
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            청소년 보호정책
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            사업자정보 확인
+                        </a>
+                    </li>
+                </ul>
+                <address>
+                    <ul>
+                        <li>대표이사 : 이기영</li>
+                        <li>이메일 : flo@music-flo.com</li>
+                        <li>사업자 등록번호 : 214-86-29288</li>
+                        <li>통신판매업 신고번호 : 2008-서울서초-1039</li>
+                    </ul>
+                    <div class="flo">
+                        <span>플로하우스 : 서울특별시 서초구 강남대로 311 드림플러스 15F</span>
+                        <a href="tel">대표전화: 1599-6034</a>
+                    </div>
+                    <div class="iriver">
+                        <span>아이리버 : 서울특별시 서초구 방배로 18길 5</span>
+                        <a href="tel">대표전화: 1577-5557</a>
+                    </div>
+                </address>
+                <div class="copy">
+                    <p>(주)드림어스컴퍼니ALL RIGHTS RESERVED</p>
+                    <span>본 사이트는 Chrome 및 IE Edge 브라우저에서 사용 가능합니다.</span>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div class="play_area">
+        <div class="play_wrap">
+            <div class="left_area">
+                <div class="none"></div>
+                <span>재생목록이 비어있습니다.</span>
+            </div>
+            <div class="middle_area">
+                <div class="top_wrap">
+                    <a href="" class="btn loop"></a>
+                    <div class="play_btn">
+                        <a href="" class="btn prev"></a>
+                        <div class="btns">
+                            <a href="" class="btn start on"><span class="blind">재생</span></a>
+                            <a href="" class="btn stop"><span class="blind">정지</span></a>
+                        </div>
+                        <a href="" class="btn next"></a>
+                    </div>
+                    <a href="" class="btn random"></a>
+                </div>
+                <div class="bottom_area">
+                    <audio controls id="audio">
+                        <source src="./music/music01.mp3" type="audio/mpeg">
+                        이 문장은 사용자의 웹 브라우저가 audio 태그를 지원하지 않을 때 나타납니다!
+                    </audio>
+                    <span>00:00</span>
+                    <div class="curr"><span></span></div>
+                    <span class="gray">00:00</span>
+                </div>
+            </div>
+            <div class="right_area">
+                <a href="" class="btn like"></a>
+                <a href="" class="btn vol"></a>
+                <a href="" class="btn list"></a>
+            </div>
+        </div>        
+    </div>
+    <script src="./js/jquery-3.6.0.min.js"></script>
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script src="./js/main.js"></script>
+</body>
+</html>

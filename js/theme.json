@@ -1,0 +1,146 @@
+[
+    {
+        "color":"#674d45;",
+        "h2":"기분전환이 필요할땐 신나는 케이팝",
+        "date":"2020.01.21",
+        "cate":"recommend",
+        "playList":[
+            {
+                "imgSrc":"./images/m_02.jpg",
+                "title":"strawberry moon",
+                "artist":"아이유 (IU)"
+            },
+            {
+                "imgSrc":"./images/m_03.jpg",
+                "title":"I CAN'T STOP ME",
+                "artist":"TWICE (트와이스)"
+            },
+            {
+                "imgSrc":"./images/m_04.jpg",
+                "title":"Real Love",
+                "artist":"오마이걸 (OH MY GIRL)"
+            },
+            {
+                "imgSrc":"./images/m_05.jpg",
+                "title":"WANNABE",
+                "artist":"ITZY (있지)"
+            },
+            {
+                "imgSrc":"./images/m_06.jpg",
+                "title":"버퍼링 (Glitch Mode)",
+                "artist":"NCT DREAN"
+            },
+            {
+                "imgSrc":"./images/m_07.jpg",
+                "title":"Tamed-Dashed",
+                "artist":"ENHYPEN"
+            },
+            {
+                "imgSrc":"./images/m_08.jpg",
+                "title":"TOMBOY",
+                "artist":"(여자)아이들"
+            },
+            {
+                "imgSrc":"./images/m_09.jpg",
+                "title":"Love in Space",
+                "artist":"체리블렛 (Cherry Bullet)"
+            }
+        ]
+    },
+    {
+        "color":"#61484b;",
+        "h2":"명상과 힐링을 위한 국악 선율",
+        "date":"2019.07.04",
+        "cate":"recommend",
+        "playList":[
+            {
+                "imgSrc":"./images/sb01.jpg",
+                "title":"May I Love You?",
+                "artist":"한혜진"
+            },
+            {
+                "imgSrc":"./images/sb02.jpg",
+                "title":"자진아리",
+                "artist":"안진성"
+            },
+            {
+                "imgSrc":"./images/sb03.jpg",
+                "title":"임이 심은 매화나무 (Flowery Nostalgiz)",
+                "artist":"들소리"
+            },
+            {
+                "imgSrc":"./images/sb04.jpg",
+                "title":"그대와 함께 있으면",
+                "artist":"해금살롱"
+            },
+            {
+                "imgSrc":"./images/sb05.jpg",
+                "title":"해바라기 (Sunflower)",
+                "artist":"월드뮤직그룹 공명"
+            },
+            {
+                "imgSrc":"./images/sb06.jpg",
+                "title":"봄을 기다리며",
+                "artist":"뮤르 (MuRR)"
+            },
+            {
+                "imgSrc":"./images/sb07.jpg",
+                "title":"가을이야기",
+                "artist":"중앙가야스트라"
+            },
+            {
+                "imgSrc":"./images/sb08.jpg",
+                "title":"Foresta",
+                "artist":"김선효"
+            }
+        ]
+    },
+    {
+        "color":"#465550;",
+        "h2":"운동할 때 듣는 신나는 댄스",
+        "date":"2021.08.06",
+        "cate":"recommend",
+        "playList":[
+            {
+                "imgSrc":"./images/d01.jpg",
+                "title":"미치겠어",
+                "artist":"틴탑"
+            },
+            {
+                "imgSrc":"./images/d02.jpg",
+                "title":"하드캐리",
+                "artist":"GOT7 (갓세븐)"
+            },
+            {
+                "imgSrc":"./images/d03.jpg",
+                "title":"DIVA",
+                "artist":"애프터 스쿨"
+            },
+            {
+                "imgSrc":"./images/d04.jpg",
+                "title":"내 귀에 캔디 FEAT.택연 OF 2PM",
+                "artist":"백지영"
+            },
+            {
+                "imgSrc":"./images/d05.jpg",
+                "title":"Mazeltov",
+                "artist":"제국의아이들[ZE:A]"
+            },
+            {
+                "imgSrc":"./images/d06.jpg",
+                "title":"심쿵해 (HEART ATTACK)",
+                "artist":"AOA"
+            },
+            {
+                "imgSrc":"./images/d07.jpg",
+                "title":"내꺼하자",
+                "artist":"인피니트"
+            },
+            {
+                "imgSrc":"./images/d08.jpg",
+                "title":"Dumb Dumb",
+                "artist":"Red Velvet (레드벨벳)"
+            }
+        ]
+    }
+]
