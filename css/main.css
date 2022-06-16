@@ -642,6 +642,7 @@
 
 .play_area .middle_area .top_wrap .btns .stop {
   background-position: -274px -426px;
+  margin: 0 20px;
 }
 
 .play_area .middle_area .top_wrap .btns .stop:hover {
